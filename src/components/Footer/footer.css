@@ -1,0 +1,12 @@
+footer {
+  display: flex;
+  background-color: #fcbd5e;
+  padding: 25px;
+  min-height: 10vh;
+  justify-content: center;
+  align-items: center;
+  color: var(--plain-white);
+  width: 100%;
+  background-color: var(--carmine-mp);
+  border-bottom: solid 10px var(--space-cadet);
+}

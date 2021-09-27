@@ -2,13 +2,9 @@
 
 ## Your Task
 
-Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
+Being a web developer means I need to create a portfolio using my new React skills, to help set me apart from other developers whose portfolios don’t use the latest technologies. 
 
-Your task is to create a portfolio using your new React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies. 
-
-You’ll deploy this application to GitHub Pages. Follow the instructions in the Git Guide or consult the [Create React App Docs on GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create a build that you can deploy.
-
-**Important:** Be sure to push your codebase to the default branch in GitHub -- NOT your built and deployed code. Ensure this happens by using the `gh-pages` branch to host the deployed application's build.
+**Important:** I will be pushing my codebase to the default branch in GitHub -- NOT your built and deployed code. I'm ensuring this happens by using the `gh-pages` branch to host the deployed application's build.
 
 ## User Story
 
@@ -70,7 +66,7 @@ You’ll use `create-react-app` to build your portfolio, which will include the 
 
 ### Projects
 
-For each project that is featured in your portfolio, include the following:
+For each project that is featured in my portfolio, I have included the following:
 
 * An image of the deployed application (either a short animated GIF or screenshot)
 
@@ -80,9 +76,9 @@ For each project that is featured in your portfolio, include the following:
 
 * A link to the corresponding GitHub repository
 
-### Design
+### Design - Suggestions
 
-As with the previous portfolio homework, remember that "good" design is subjective; however, your site should look polished. Here are a few guidelines on what that means:
+As with the previous portfolio homework, remember that "good" design is subjective; however, my site should look polished. Here are a few guidelines on what that means to me:
 
 * Use mobile-first design.
 
@@ -90,11 +86,8 @@ As with the previous portfolio homework, remember that "good" design is subjecti
 
 * Ensure that the font size is large enough to read and that the colors don't cause eye strain.
 
-* Consider using animations and React component libraries. Note that this will not affect your grade, but it might impact how potential employers gauge your knowledge.
+* Consider using animations and React component libraries. Could be impressive to employers!
 
-## Grading Requirements
-
-This homework is graded based on the following criteria:
 
 ### Technical Acceptance Criteria: 40%
 
