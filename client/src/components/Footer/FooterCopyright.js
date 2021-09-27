@@ -1,11 +1,10 @@
 import Footer from "./Footer";
 
 const FooterCopyright = () => {
-  return (
-    <footer>
-      <FooterCopyright>©Created 2021 By Zana Mathuthu</FooterCopyright>
-    </footer>
-  );
+  return;
+  <p className="footerCopyright">
+    © 2021 Zana Mathuthu - Portfolio. All Rights Reserved.
+  </p>;
 };
 
 export default FooterCopyright;
