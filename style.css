@@ -1,0 +1,24 @@
+.navbar {
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+footer {
+  background-color: #fcbd5e;
+  padding: 25px;
+}
+body {
+  background-color: rgb(244, 223, 154);
+}
+
+/* .col-sm-3 a:hover {
+  height: 2500px;
+
+} */
+
+ul li {
+  list-style: none;
+}
+
+ul li reach {
+  border-bottom: black 2px;
+}
